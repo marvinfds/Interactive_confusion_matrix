@@ -1,4 +1,4 @@
-# Interactive_confusion_matrix
+# Interactive confusion matrix
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 1)Interactive Slider
