@@ -2,14 +2,14 @@
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 What this tool is?
-1) This tool will provide you another step or fine tune your model by INTERACTIVELY visulaizing the predicted category and clean missclassfied training/testing dataset caused by human error. As they say "GARBAGE IN GARBAGE OUT" right!?
+1) This tool will provide you another step or fine tune your model by INTERACTIVELY visualizing the predicted category and clean missclassified training/testing dataset caused by human error. As they say "GARBAGE IN GARBAGE OUT" right!?
 
-2) Interactively move the classification threshold so one can get accepacble false positive/false negative percentage.
+2) Interactively move the classification threshold so one can get acceptable false positive/false negative percentage.
 (Just another alternative to precision and Recall plot)
 
 Why this tool is important?
 
-This is  important in industry where when data is limited and every fraction of percentage inacrease is crucial.
+This is important in industry where when data is limited and every fraction of percentage increase is crucial.
 
 
 
@@ -19,7 +19,11 @@ Prerequisite?
 
 OR
 
-For hassle free experience install  venv using anaconda "interactive_confusion_matrix.yml" and run the code
+For hassle free experience install venv using anaconda "interactive_confusion_matrix.yml" and run the code
+
+For help with conda environment management. Link provided below
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
 
 
 
