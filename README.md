@@ -45,11 +45,11 @@ Visualize Images through confusion matrix
 ![](gif/interactive_conf_mat.gif)
 
 ### 5) Image Cleaner
-Selected Category from "Inetractive confusion matrix" can be now sorted in correct category if any misclassified images remain.
+Selected category from "Inetractive confusion matrix" can be now sorted in correct category if any misclassified images remain.
 ![](gif/image_cleaner.gif)
 
 ### 6) Move Images Into Assigned Folder
-Images Category changed in "Image cleaner" can be moved from dataset folder into new folder to be sorted into correct folder if required.
+Images categories changed in "Image cleaner" can be moved from dataset folder into new folder to be sorted into correct folder if required.
 Note: Change copy.imutilis to move.imutilis for Cut Paste operation.
 ![](gif/move_images.gif)
 
