@@ -4,10 +4,11 @@ Interactive confusion matrix to visualize predictions and classification and cle
 What this tool is?
 1) This tool will provide you another step or fine tune your model by INTERACTIVELY visulaizing the predicted category and clean missclassfied training/testing dataset caused by human error. As they say "GARBAGE IN GARBAGE OUT" right!?
 
-2)Interactively move the classification threshold so one can get accepacble false positive/false negative percentage.
+2) Interactively move the classification threshold so one can get accepacble false positive/false negative percentage.
 (Just another alternative to precision and Recall plot)
 
 Why this tool is important?
+
 This is  important in industry where when data is limited and every fraction of percentage inacrease is crucial.
 
 
