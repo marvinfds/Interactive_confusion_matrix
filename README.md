@@ -2,7 +2,7 @@
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 ### What this tool is?
-1) This tool will provide you another step or fine tune your model by INTERACTIVELY visualizing the predicted category and clean missclassified training/testing dataset caused by human error. As they say "GARBAGE IN GARBAGE OUT" right!?
+1) This tool will provide you another step or fine tune your model by INTERACTIVELY visualizing the predicted category and clean missclassified training/testing dataset caused by human error. As saying goes "GARBAGE IN GARBAGE OUT" right!?
 
 2) Interactively move the classification threshold so one can get acceptable false positive/false negative percentage.
 (Just another alternative to precision and Recall plot)
