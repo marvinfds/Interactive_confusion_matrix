@@ -1,4 +1,4 @@
-# Interactive confusion matrix
+## Interactive confusion matrix
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 What this tool is?
@@ -49,5 +49,7 @@ Interactive threshold
 6) Move Images into assigned folder
 ![](gif/move_images.gif)
 
+Resources:
+https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/#:~:text=The%20decision%20for%20converting%20a,in%20the%20range%20between%200
 
 Enjoy!
