@@ -27,7 +27,7 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 
 3) Once model is trained the prediction needs to be saved in csv format. Sample code (sample on training and saving csv for analysis.ipynb) provided to save csv in structured format.
 
-## Funtionalities
+###### Funtionalities
 ## 1) Interactive Slider
 Slider to interact with dataframe of predictions
 ![](gif/interactive_slider.gif)
