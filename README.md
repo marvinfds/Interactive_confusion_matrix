@@ -9,13 +9,13 @@ What this tool is?
 
 Why this tool is important?
 
-This is important in industry where when data is limited and every fraction of percentage increase is crucial.
+This is important in industry where data is limited and every fraction of percentage increase is crucial.
 
 
 
 Prerequisite?
 1) Jupyter notebook
-2) Ipywidgets (Please check version compatibility with jupyter notebook before installing)
+2) Ipywidgets (Please check version compatibility with jupyter notebook before installing https://github.com/jupyter-widgets/ipywidgets)
 
   OR
 
@@ -48,6 +48,10 @@ Interactive threshold
 
 6) Move Images into assigned folder
 ![](gif/move_images.gif)
+
+Limitaion of this tool?
+-The analaysis can only be done on 2 classes for now.
+
 
 Resources:
 https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/#:~:text=The%20decision%20for%20converting%20a,in%20the%20range%20between%200
