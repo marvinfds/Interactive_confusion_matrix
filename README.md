@@ -1,4 +1,4 @@
-## Interactive confusion matrix
+# Interactive confusion matrix
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 What this tool is?
