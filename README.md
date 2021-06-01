@@ -32,11 +32,12 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 Slider to interact with dataframe of predictions
 ![](gif/interactive_slider.gif)
 
-### 2) Manual Threshold
-Interactive threshold
+### 2) Interactive Threshold
+By default the threshold is set to 50%. changing threshold is one way of optimizing and improving your model performance. But should be considered for fine tuning performance.
+
 ![](gif/manual_thres.gif)
 
-### 3) Range threshold Visualize
+### 3) Range Threshold Visualize
 ![](gif/range_thres.gif)
 
 ### 4) Interactive Confusion Matrix
