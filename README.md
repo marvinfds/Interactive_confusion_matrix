@@ -27,22 +27,22 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 
 3) Once model is trained the prediction needs to be saved in csv format. Sample code (sample on training and saving csv for analysis.ipynb) provided to save csv in structured format.
 
-###### Funtionalities
-## 1) Interactive Slider
+## Funtionalities
+### 1) Interactive Slider
 Slider to interact with dataframe of predictions
 ![](gif/interactive_slider.gif)
 
-## 2) Manual Threshold
+### 2) Manual Threshold
 Interactive threshold
 ![](gif/manual_thres.gif)
 
-3) Range threshold Visualize
+### 3) Range threshold Visualize
 ![](gif/range_thres.gif)
 
-4) Interactive Confusion Matrix
+### 4) Interactive Confusion Matrix
 ![](gif/interactive_conf_mat.gif)
 
-5) Image Cleaner
+### 5) Image Cleaner
 ![](gif/image_cleaner.gif)
 
 6) Move Images into assigned folder
