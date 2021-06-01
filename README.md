@@ -17,9 +17,9 @@ Prerequisite?
 1) Jupyter notebook
 2) Ipywidgets (Please check version compatibility with jupyter notebook before installing)
 
-OR
+  OR
 
-For hassle free experience install venv using anaconda "interactive_confusion_matrix.yml" and run the code
+  For hassle free experience install venv using anaconda "interactive_confusion_matrix.yml" and run the code
 
 For help with conda environment management. Link provided below
 
