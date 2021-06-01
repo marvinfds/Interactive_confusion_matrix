@@ -41,12 +41,15 @@ By default the threshold is set to 50%. Changing threshold is one way of optimiz
 ![](gif/range_thres.gif)
 
 ### 4) Interactive Confusion Matrix
+Visualize Images through confusion matrix
 ![](gif/interactive_conf_mat.gif)
 
 ### 5) Image Cleaner
+Selected Category from "Inetractive confusion matrix" can be now sorted in correct category if any misclassified images remain.
 ![](gif/image_cleaner.gif)
 
-### 6) Move Images into assigned folder
+### 6) Move Images Into Assigned Folder
+Images Category changed in "Image cleaner" can be moved from dataset folder into new folder to be sorted into correct folder if required.
 ![](gif/move_images.gif)
 
 ### Limitaion of this tool?
