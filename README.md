@@ -14,8 +14,8 @@ This is important in industry where when data is limited and every fraction of p
 
 
 Prerequisite?
-- Jupyter notebook
-- Ipywidgets (Please check version compatibility with jupyter notebook before installing)
+1) Jupyter notebook
+2) Ipywidgets (Please check version compatibility with jupyter notebook before installing)
 
 OR
 
@@ -25,6 +25,7 @@ For help with conda environment management. Link provided below
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
 
+3) Once model is trained the prediction needs to be saved in csv format. Sample code (sample on training and saving csv for analysis.ipynb) provided to save csv in structured format.
 
 
 1)Interactive Slider
