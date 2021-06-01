@@ -1,4 +1,4 @@
-# Interactive confusion matrix
+# Interactive Confusion Matrix
 Interactive confusion matrix to visualize predictions and classification and cleaning misclassified
 
 ### What this tool is?
@@ -50,6 +50,7 @@ Selected Category from "Inetractive confusion matrix" can be now sorted in corre
 
 ### 6) Move Images Into Assigned Folder
 Images Category changed in "Image cleaner" can be moved from dataset folder into new folder to be sorted into correct folder if required.
+Note: Change copy.imutilis to move.imutilis for Cut Paste operation.
 ![](gif/move_images.gif)
 
 ### Limitaion of this tool?
