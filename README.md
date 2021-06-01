@@ -12,6 +12,13 @@ Why this tool is important?
 This is  important in industry where when data is limited and every fraction of percentage inacrease is crucial.
 
 
+Prerequisite?
+- Jupyter notebook
+- Ipywidgets (Please check version compatibility with jupyter notebook before installing)
+OR
+For hassle free experience install  venv using anaconda "interactive_confusion_matrix.yml" and run the code
+
+
 1)Interactive Slider
 Slider to interact with dataframe of predictions
 ![](gif/interactive_slider.gif)
